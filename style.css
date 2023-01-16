@@ -1,9 +1,2 @@
-@font-face {
-  font-family: 'Mojangles';
-  src: url('fonts/Mojangles.eot'); /* IE9 Compat Modes */
-  src: url('fonts/Mojangles.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/Mojangles.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/Mojangles.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/Mojangles.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('fonts/Mojangles.svg#Mojangles') format('svg'); /* Legacy iOS */
-}
+body {
+  font-family=Mojangles
