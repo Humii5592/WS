@@ -1,6 +1,6 @@
-# WS
-My website
+# My website
+So I made a website and I'm hosting it on GitHub because ain't no way I'm about to pay for it (thank you GitHub for the free hosting)
 
-I deleted it a while back but I thought it would be cool to bring it back so that's what I did.
+You might wonder where to visit the website. Well, you can visit the website [here!](https://humii5592.github.io/WS/)
 
-Visit the website [here!](https://humii5592.github.io/WS/)
+Hope you enjoy!
