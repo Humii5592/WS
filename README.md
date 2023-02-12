@@ -1,5 +1,5 @@
 # My website
-So I made a website and I'm hosting it on GitHub because ain't no way I'm about to pay for it (thank you GitHub for the free hosting)
+So I thought to myself: "I really want to create a website." So I've given it a try! 
 
 You might wonder where to visit the website. Well, you can visit the website [here!](https://humii5592.github.io/WS/)
 
