@@ -16,13 +16,17 @@ p {
 }
 span {
 	font-family: 'arial', 'arial';
+	color: purple;
 }
 a {
 	font-family: 'arial', 'arial';
+	color: purple;
 }
 b {
 	font-family: 'arial', 'arial';
+	color: purple
 }
 u {
 	font-family: 'arial', 'arial';
+	color: purple
 }
