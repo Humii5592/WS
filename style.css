@@ -30,3 +30,7 @@ u {
 	font-family: 'arial', 'arial';
 	color: purple
 }
+::selection {
+	background: #0000ff;
+	color: #000000;
+}
